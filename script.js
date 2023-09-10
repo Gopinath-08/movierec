@@ -1,5 +1,5 @@
 // Replace 'YOUR_API_KEY' with your actual API key
-const apiKey = 'YOUR_API_KEY';
+const apiKey = '5cedbc22a44c3c21dd9214cbebbe9125';
 const apiUrl = `https://api.themoviedb.org/3/movie/popular?api_key=${apiKey}`;
 
 // Function to fetch popular movies
